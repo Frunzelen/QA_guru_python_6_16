@@ -19,3 +19,5 @@
 Тест на регистрацию
 [Сборка в Jenkins с параметрами](https://jenkins.autotests.cloud/job/QA_guru_python_6_16_student_Ter-Akopova/)
 
+![Screenshot_3](https://github.com/Frunzelen/QA_guru_python_6_16/assets/102532085/6863d64c-371f-4bd3-adee-56273cc092b4)
+
