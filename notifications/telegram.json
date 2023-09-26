@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "logo.png",
+    "project": "Elena_Ter-Akopova_QA_guru_python_6_13",
+    "environment": "test",
+    "comment": "",
+    "reportLink": "",
+    "language": "en",
+    "allureFolder": "allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "6555177492:AAEyogo9Y8Y6fOnC4mOUqWXn6N-7r5iFe9I",
+    "chat": "-1001875352915",
+    "replyTo": ""
+  }
+}

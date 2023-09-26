@@ -1,0 +1,10 @@
+curl -X POST \
+     -H 'Content-Type: application/json' \
+     -d '{"chat_id": "-1001875352915", "text": "This is a test from Elena", "disable_notification": true}' \
+     https://api.telegram.org/bot6555177492:AAEyogo9Y8Y6fOnC4mOUqWXn6N-7r5iFe9I/sendMessage
+
+
+# token: 6555177492:AAEyogo9Y8Y6fOnC4mOUqWXn6N-7r5iFe9I
+# chat id: -1001875352915
+# web: https://api.telegram.org/bot6555177492:AAEyogo9Y8Y6fOnC4mOUqWXn6N-7r5iFe9I/getUpdates
+# команда для запуска: java "-DconfigFile=notifications/telegram.json" -jar notifications/allure-notifications-4.3.0.jar

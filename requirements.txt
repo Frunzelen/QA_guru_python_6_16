@@ -1,0 +1,6 @@
+selene==2.0.0rc4
+pytest~=7.3.2
+selenium~=4.9.1
+allure-pytest==2.13.2
+python-dotenv~=0.20.0
+iniconfig==2.0.0
