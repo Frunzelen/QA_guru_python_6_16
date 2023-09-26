@@ -1,7 +1,7 @@
 {
   "base": {
     "logo": "logo.png",
-    "project": "Elena_Ter-Akopova_QA_guru_python_6_13",
+    "project": "Elena_Ter-Akopova_QA_guru_python_6_16",
     "environment": "test",
     "comment": "",
     "reportLink": "",
@@ -10,7 +10,7 @@
     "enableChart": true
   },
   "telegram": {
-    "token": "6555177492:AAEyogo9Y8Y6fOnC4mOUqWXn6N-7r5iFe9I",
+    "token": "6561657275:AAGUM8i-9yf5kavjpv2JjPXDbsjhIf98QbE",
     "chat": "-1001875352915",
     "replyTo": ""
   }
