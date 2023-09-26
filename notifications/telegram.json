@@ -1,9 +1,9 @@
 {
   "base": {
-    "logo": "logo.png",
-    "project": "Elena_Ter-Akopova_QA_guru_python_6_16",
-    "environment": "test",
-    "comment": "",
+    "logo": "",
+    "project": "some project",
+    "environment": "some env",
+    "comment": "some comment",
     "reportLink": "",
     "language": "en",
     "allureFolder": "allure-report/",

@@ -1,7 +1,7 @@
 curl -X POST \
      -H 'Content-Type: application/json' \
      -d '{"chat_id": "-1001875352915", "text": "This is a test from Elena", "disable_notification": true}' \
-     https://api.telegram.org/bot6561657275:AAGUM8i-9yf5kavjpv2JjPXDbsjhIf98QbE/getUpdates
+     https://api.telegram.org/bot6561657275:AAGUM8i-9yf5kavjpv2JjPXDbsjhIf98QbE/sendMessage
 
 
 # token: 6561657275:AAGUM8i-9yf5kavjpv2JjPXDbsjhIf98QbE
