@@ -17,5 +17,5 @@
 
 ## Решение
 Тест на регистрацию
-1. [Сборка в Jenkins с параметрами] (https://jenkins.autotests.cloud/job/QA_guru_python_6_16_student_Ter-Akopova/3/)
+1. [Сборка в Jenkins с параметрами] https://jenkins.autotests.cloud/job/QA_guru_python_6_16_student_Ter-Akopova/3/
 
